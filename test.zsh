@@ -13,3 +13,9 @@ function test-it()
         echo "verbose param is on"
     fi
 }
+
+function test-it2()
+{
+    zparseopts -D -E
+    # zparseopts is odddly mysterious and hard to use
+}
