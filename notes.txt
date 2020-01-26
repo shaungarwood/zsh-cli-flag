@@ -1,0 +1,3 @@
+https://github.com/whiteinge/presentations/blob/master/utosc_2012-05-05_zsh/presentation.rst
+
+^ some pretty good info
